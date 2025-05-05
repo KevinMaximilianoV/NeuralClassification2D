@@ -1,6 +1,8 @@
 # NeuralClassification2D
 Kevin Maximiliano Vazquez Aguilar
+
 Maximo Romano Teytud Alcazar
+
 
 Universidad Politecnica de Santa Rosa Jauregui
 
