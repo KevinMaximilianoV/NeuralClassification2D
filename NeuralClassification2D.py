@@ -79,3 +79,5 @@ plt.xlabel('x1')
 plt.ylabel('x2')
 plt.title('Clasificación de puntos en el plano')
 plt.show()
+
+
