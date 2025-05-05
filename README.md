@@ -1,5 +1,8 @@
 # NeuralClassification2D
-Kevin Maximiliano Vazquez Aguilar, Universidad Politecnica de Santa Rosa Jauregui
+Kevin Maximiliano Vazquez Aguilar
+Maximo Romano Teytud Alcazar
+
+Universidad Politecnica de Santa Rosa Jauregui
 
 Este proyecto implementa una red neuronal multicapa en Python **sin utilizar frameworks de aprendizaje profundo como TensorFlow o PyTorch**. El objetivo es clasificar dos grupos de puntos generados aleatoriamente en el plano utilizando una red con una capa oculta.
 
