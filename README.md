@@ -23,7 +23,7 @@ This project implements a multilayer neural network in Python **without using de
 - Trains the model using backpropagation for 30,000 epochs.
 - Visualizes error evolution and final classification.
 
-## ⚙️ Requisitos / Requirements
+## Requisitos / Requirements
 
 - Python 3.x  
 - Numpy  
